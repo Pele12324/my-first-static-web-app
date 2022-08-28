@@ -1,8 +1,7 @@
 import React from 'react';
 
 function App() {
-  const value = 'World';
-  return <div>Hello {value}</div>;
+  return <div>Free V bucks get ip grabbed bitch\n suck my cock!</div>;
 }
 
 export default App;
