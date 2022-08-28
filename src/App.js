@@ -1,7 +1,7 @@
 import React from 'react';
 
 function App() {
-  return <div>Free V bucks get ip grabbed bitch\n suck my cock!</div>;
+  return <div>Free V bucks get ip grabbed bitch<br>suck my cock!</br></div>;
 }
 
 export default App;
